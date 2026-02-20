@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /private/
+Disallow: /*.json$
+
+Sitemap: https://carliinsaat.com/sitemap.xml
