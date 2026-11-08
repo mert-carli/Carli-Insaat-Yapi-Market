@@ -1,0 +1,12 @@
+# OS & Editor metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# Logs & Environment
+*.log
+.env
+.env.local
+.vercel/
